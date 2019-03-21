@@ -1,5 +1,7 @@
 # M5Stack CO2 Display
+<img src="https://user-images.githubusercontent.com/2618822/54765192-694e5200-4c3c-11e9-94fe-ca132908caa0.jpeg" width=60%> 
 
+<img src="https://user-images.githubusercontent.com/2618822/54765256-85ea8a00-4c3c-11e9-84e3-35d9057d830b.jpeg" width=20%> <img src="https://user-images.githubusercontent.com/2618822/54765260-871bb700-4c3c-11e9-88b4-ec9583d13bd1.jpeg" width=20%> <img src="https://user-images.githubusercontent.com/2618822/54765265-88e57a80-4c3c-11e9-8e3a-60476c380ff1.jpeg" width=20%>
 
 ## Materials
 
@@ -9,6 +11,7 @@
 - MHZ19-B CO2 Sensor
 
 ## Case
+
 https://www.thingiverse.com/thing:3507704
 
 
