@@ -18,7 +18,7 @@ https://www.thingiverse.com/thing:3507704
 MIT License
 Copyright (c) 2018 Tobias SchÃ¼rg
 
-MHZ Library included is based on [tobiasschuerg/MH-Z-CO2-Sensors](https://github.com/tobiasschuerg/MH-Z-CO2-Sensors) and modified to suitable for M5Stack/ESP32.
+The included MHZ CO2 sensor library is based on [tobiasschuerg/MH-Z-CO2-Sensors](https://github.com/tobiasschuerg/MH-Z-CO2-Sensors) and modified to suitable for M5Stack/ESP32.
 
 
 
