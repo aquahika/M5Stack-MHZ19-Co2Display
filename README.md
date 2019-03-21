@@ -6,9 +6,13 @@
 ## Materials
 
 - M5Stack
+- MicroSD Card (To store image files. It's quite small.)
 - 1x15 Pin header
 - Some short cables
 - MHZ19-B CO2 Sensor
+
+## SD Card
+Place the all files under the _SD_ directory to the microSD card. 
 
 ## Case
 <img src="https://user-images.githubusercontent.com/2618822/54765491-f691a680-4c3c-11e9-8679-03a1abf97ff7.jpg" width=20%>
