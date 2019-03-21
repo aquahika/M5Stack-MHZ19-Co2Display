@@ -11,7 +11,7 @@
 - MHZ19-B CO2 Sensor
 
 ## Case
-
+<img src="https://user-images.githubusercontent.com/2618822/54765491-f691a680-4c3c-11e9-8679-03a1abf97ff7.jpg" width=20%>
 https://www.thingiverse.com/thing:3507704
 
 
@@ -22,6 +22,3 @@ MIT License
 Copyright (c) 2018 Tobias SchÃ¼rg
 
 The included MHZ CO2 sensor library is based on [tobiasschuerg/MH-Z-CO2-Sensors](https://github.com/tobiasschuerg/MH-Z-CO2-Sensors) and modified to suitable for M5Stack/ESP32.
-
-
-
